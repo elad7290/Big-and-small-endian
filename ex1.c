@@ -1,4 +1,4 @@
-//312531973 Elad Baal-Tzdaka
+
 /**
  * This function checks if the machine represent bytes in big or little endian.
  * In order to test this I chose the number 1, since 1 has two representations.
